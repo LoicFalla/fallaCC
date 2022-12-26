@@ -1,0 +1,82 @@
+body{
+
+}
+table{
+    border-top: 5px  #A52A2A solid;
+    border-bottom: 5px rgb(83, 214, 247) solid;
+    border-left: 5px rgb(83, 214, 247) solid;
+    border-right: 5px   #A52A2A solid;
+
+}
+#profil{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.gauche{
+    background-color:  white;
+   padding-left: 50px;
+   padding-top: 0px;
+   width: 500px;
+   margin-bottom: 0px;
+   margin-top: 0px;
+   
+}
+.droite {
+    background-color: rgba(192, 223, 239);
+    padding-left: 50px;
+    padding-top: 0px;
+    width: 500px;
+
+}
+b{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 70px;
+    height: 40px;
+}
+
+.font-blanc{
+    width: 350px;
+    height: 50px;
+    color: whitesmoke;
+    font-style: normal;
+    font-weight: bolder;
+    color: black;
+    background-color: aliceblue;   
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-top: 15px;
+    border-radius: 7px;
+    
+
+}
+.titre-droite{
+    margin-top: 4px;
+}
+
+.font-marron{
+    width: 350px;
+    height: 50px;
+   
+    font-style: normal;
+    font-weight: bolder;
+    color: black;   
+    /*background-color:rgba(192, 223, 239);   */
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-top: 15px;
+    border-radius: 7px;
+    
+}
+.span{
+    font-weight: bolder;
+}
+#Span_nom{
+    color: #A52A2A;
+
+}
+li{
+    list-style: none;
+}
